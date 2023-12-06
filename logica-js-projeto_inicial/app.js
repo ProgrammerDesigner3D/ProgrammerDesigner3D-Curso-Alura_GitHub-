@@ -28,6 +28,7 @@ alert(`Isso ai! Você descobriu o número secreto ${numeroSecreto} com ${tentati
 
 //++ para comitar
 // + Commit
+// + Commit
 //if (tentativas > 1) {
 //    alert(`Isso ai! Você descobriu o número secreto ${numeroSecreto} com ${tentativas} tentativas.`);
 //} else {
