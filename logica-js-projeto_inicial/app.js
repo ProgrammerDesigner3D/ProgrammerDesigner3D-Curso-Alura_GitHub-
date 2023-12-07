@@ -26,9 +26,10 @@ while(chute != numeroSecreto){
 let palavraTentativa = tentativas > 1 ? 'tentativas' : 'tentativa';
 alert(`Isso ai! Você descobriu o número secreto ${numeroSecreto} com ${tentativas} ${palavraTentativa}.`);
 
+//  github.com:ProgrammerDesigner3D/ProgrammerDesigner3D-Curso-Alura_GitHub-.git
 //++ para comitar
 // + Commit 
-// + Commit 
+// + Commit ++ Commit
 //if (tentativas > 1)  {
 //    alert(`Isso ai! Você descobriu o número secreto ${numeroSecreto} com ${tentativas} tentativas.`);
 //} else {

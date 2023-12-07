@@ -1,3 +1,6 @@
 # ProgrammerDesigner3D-Curso-Alura_GitHub-
-studying
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+Studying
+
+![giphy](https://github.com/ProgrammerDesigner3D/ProgrammerDesigner3D-Curso-Alura_GitHub-/assets/18373344/ac108f2a-f1f9-4dd4-8c22-ffc5e117e649)
+
+
