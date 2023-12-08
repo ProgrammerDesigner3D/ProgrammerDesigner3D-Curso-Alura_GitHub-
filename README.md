@@ -8,7 +8,7 @@
   
   ###### Studying
 
-
+ 
   <img src="logica-js-projeto_inicial/img/code.png"  style="float:right; width:200px; height:100px;">
   <img src="logica-js-projeto_inicial/img/code.png"  style="float:left; width:200px; height:100px;">
   <img src="logica-js-projeto_inicial/img/code.png"  style="float:right; width:200px; height:100px;">
