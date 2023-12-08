@@ -12,7 +12,7 @@
 
 
 
-<img src="logica-js-projeto_inicial/img/code.png" width="100" height="40">
+<img src="logica-js-projeto_inicial/img/code.png" width="1136" height="910">
 <img src="logica-js-projeto_inicial/img/code.png" width="100" height="30">
 
 ![imag](logica-js-projeto_inicial/img/code.png)
