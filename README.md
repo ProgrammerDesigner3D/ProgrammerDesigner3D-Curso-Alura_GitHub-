@@ -8,6 +8,7 @@
 
   ###### Programmer Designer 3D
 
- 
+ <p align="center">
   <img src="logica-js-projeto_inicial/img/code.png"  style="float:right; width:400px; height:200px;">
+  </p>
  
