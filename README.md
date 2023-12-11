@@ -16,7 +16,7 @@
   |![gotham](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gotham)|![tokyonight](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)|
 
  <p align="center">
-  <img src="logica-js-projeto_inicial/img/code.png"  style="float:right; width:1000px; height:200px;">
+  <img src="logica-js-projeto_inicial/img/code.png"  style="float:right; width:1200px; height:200px;">
   </p>
  
  
