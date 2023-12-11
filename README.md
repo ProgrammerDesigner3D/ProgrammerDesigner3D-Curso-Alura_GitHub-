@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="logica-js-projeto_inicial/img/teste-filtro-render-circuito.png"  style="float:right; width:1000px; height:200px;">
+  </p>
+<p align="center">
   <img width="480" height="360" src="https://github.com/ProgrammerDesigner3D/ProgrammerDesigner3D-Curso-Alura_GitHub-/assets/18373344/ac108f2a-f1f9-4dd4-8c22-ffc5e117e649">
   </p>
 
@@ -15,4 +18,5 @@
  <p align="center">
   <img src="logica-js-projeto_inicial/img/code.png"  style="float:right; width:1000px; height:200px;">
   </p>
+ 
  
