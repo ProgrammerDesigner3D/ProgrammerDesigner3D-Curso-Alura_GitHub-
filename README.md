@@ -9,7 +9,7 @@
   ###### Programmer Designer 3D
 
   |||
-  |:----:|:----:|
+  | :--: | :--: |
   |![gotham](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gotham)|![tokyonight](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)|
 
  <p align="center">
