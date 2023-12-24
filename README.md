@@ -1,5 +1,5 @@
   <p align="center">
-  <img width="480" height="360" src="logica-js-projeto_inicial/img/modificando-gif.gif">
+  <img width="480" height="340" src="logica-js-projeto_inicial/img/modificando-gif.gif">
   </p>
 
   ### Curso Alura GitHub
